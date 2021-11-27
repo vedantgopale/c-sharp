@@ -116,4 +116,3 @@ public class EnemyAiTutorial : MonoBehaviour
         Gizmos.DrawWireSphere(transform.position, sightRange);
     }
 }
-
